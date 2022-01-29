@@ -1,0 +1,22 @@
+body{
+    background: black;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+  }
+  .container{
+    max-width: 600px;
+}
+
+.icon{
+  position: relative;
+  top: -70px;
+  border-radius: 100%;
+  width: 120px;
+  margin-bottom: -70px;
+}
+
+footer{
+  color: ghostwhite;
+}
+
+
